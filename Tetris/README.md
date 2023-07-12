@@ -10,10 +10,6 @@ Tetris is a simple 2D Tetris game made with python and pygame.
 	<img src='app.png' width=200 height=300>
 </p>
 
-## How to Download
-
-Download this project from here [Download Tetris](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Tetris)
-
 ## Requirements
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
