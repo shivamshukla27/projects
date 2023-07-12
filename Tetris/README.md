@@ -30,9 +30,3 @@ Controls:
 * Use Space to fall at once.
 * Press P to pause or unpause the game.
 * Press Esc to quit the game.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
